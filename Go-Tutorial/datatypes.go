@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-	// int float64, bool, string, rune
+	// int float64, bool, string, rune (alias for int32).
 	// Default: 0, 0,0, false, "", ""
 
 	fmt.Println(reflect.TypeOf(25))
