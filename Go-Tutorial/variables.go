@@ -20,4 +20,6 @@ func main() {
 	// If you were to re-assign v4 later you'd use
 	v4 = 3.0
 
+	fmt.Println(v1, v2, v3, v4)
+
 }
